@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayaradgl
+- 👋 Hi, I’m @dgl
 - 👀 I’m interested in learning new ways to tell stories
 - 🌱 I’m currently learning R and Phyton
 -
